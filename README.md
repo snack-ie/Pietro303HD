@@ -1,4 +1,6 @@
-### Hi there 👋
+### What ya wanna know about me?
+## A bit about myself.
+I am Pietro, a Brazilian who has great interest in english and programming! One of my dreams is to make a game based on my little brother.
 
 <!--
 **Pietro303HD/Pietro303HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
